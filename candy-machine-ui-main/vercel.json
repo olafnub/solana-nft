@@ -1,0 +1,6 @@
+{
+    "version": 2,
+    "name": "candy-machine-ui",
+    "builds": [{ "src": "package.json", "use": "@vercel/node" }],
+    "routes": [{ "src": "/(.*)", "dest": "/$1" }]
+}
