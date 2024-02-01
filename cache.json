@@ -1,0 +1,26 @@
+{
+  "program": {
+    "candyMachine": "3cLZDKqgLE8F3N3Y3iFAbPhG2bnJK4sPz8SNtGwhsUHm",
+    "candyGuard": "CDp5GbqfBQosqbeZBnP1p2jVie5ECtvJGVYqxtsuoR58",
+    "candyMachineCreator": "6y5gd5Fmf9s9ygA53cGBVnUDRZ3obqbz7dN6BcdBeiFM",
+    "collectionMint": "E2GnRs6bwFkymZQxjqvg5Z93d2Tc9P6QpNdiyVikBwMQ"
+  },
+  "items": {
+    "-1": {
+      "name": "Giant Lofi Robots Collection",
+      "image_hash": "1f1aab010331b8cdd86de72d5df192d463ae9ce5bc08fdeb2ec6433d4ebaa210",
+      "image_link": "https://arweave.net/bEPGGbu2e1V4V_eQcGuXUMtu7o3Lp432npDI27dFRLk?ext=jpeg",
+      "metadata_hash": "3f6b9ef084ff78bcebd47610e7aadab95b20ed409cc1660ed888595bdd641fc1",
+      "metadata_link": "https://arweave.net/iO2UlREktsKZgsasc-WNniioxrIZ07JDiT9a9Z1RNF0",
+      "onChain": true
+    },
+    "0": {
+      "name": "Giant Lofi Robot #0",
+      "image_hash": "e4f7499652431ee3c9734d04b216ff24825e18168d13a873741cb762bfa16004",
+      "image_link": "https://arweave.net/A1UMUa3UkHAbRNoOHw6Y7_VgkYbMXR1bfmY5RjQq5qM?ext=jpeg",
+      "metadata_hash": "ec65084f97bc0afd76ea12bcb96ed19243010a899fb942d002e731ebe41a7f76",
+      "metadata_link": "https://arweave.net/tj-cwPeKWT-Wu81RweSlKFVQge0MQbf2Xirm_rVytlA",
+      "onChain": true
+    }
+  }
+}

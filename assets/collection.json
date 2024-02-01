@@ -1,0 +1,14 @@
+{
+    "name": "Giant Lofi Robots Collection",
+    "symbol": "LF",
+    "description": "Collection of lofi robots for everyday reels challenge, price corresponding to follower count",
+    "image": "collection.jpeg",
+    "properties": {
+        "files": [
+            {
+                "uri": "collection.jpeg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}

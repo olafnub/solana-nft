@@ -1,0 +1,38 @@
+{
+  "number": 1,
+  "symbol": "LF",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "2nswJCpZzDZgcca3aTXvyu8Bn5WYr2pVeZKraBKkkgMP",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "mintLimit": {
+        "id": 1,
+        "limit": 1
+      },
+      "solPayment": {
+        "value": 0.05,
+        "destination": "56fpr6d18rSUHPZyMZ4pausx4GyueWpe6pkikDysyikx" 
+      },
+      "startDate": {
+        "date": "2024-01-31T07:00:00Z"
+      },
+      "botTax": {
+        "value": 0.01,
+        "lastInstruction": true
+      }
+    }
+  }
+}

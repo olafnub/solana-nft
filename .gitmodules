@@ -1,0 +1,3 @@
+[submodule "candy-machine-ui"]
+	path = candy-machine-ui
+	url = https://github.com/metaplex-foundation/candy-machine-ui
