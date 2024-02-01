@@ -1,5 +1,8 @@
 # Launching NFT Collection using Candy Machine v3
 
+# video - https://youtu.be/0KHv1dMV8zU?si=YLQUD91iD__MlUa1 (Using Metaplex Candy Machine V3 and Sugar to Create Solana NFT Collection)
+# video - https://youtu.be/dpZ98NUg_W0?si=4J6SwNjOrWOog6vC (alchemy - watch if you're stuck on from first source)
+
 solana --version
 solana-keygen --version
 
@@ -58,4 +61,6 @@ cd candy-machine-ui
 npm i
 
 cp .env.example .env
+
+./sugarCM3 show # show candy machine id
 
